@@ -1,0 +1,1 @@
+The early part of the 20th century saw a rapid growth in the formal analysis of randomness, as various approaches to the mathematical foundations of probability were introduced. In the mid-to-late-20th century, ideas of algorithmic information theory introduced new dimensions to the field via the concept of algorithmic randomness.

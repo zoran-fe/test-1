@@ -1,0 +1,1 @@
+Although randomness had often been viewed as an obstacle and a nuisance for many centuries, in the 20th century computer scientists began to realize that the deliberate introduction of randomness into computations can be an effective tool for designing better algorithms. In some cases, such randomized algorithms even outperform the best deterministic methods.

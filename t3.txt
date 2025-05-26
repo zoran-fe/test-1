@@ -1,0 +1,2 @@
+Randomness is most often used in statistics to signify well-defined statistical properties. Monte Carlo methods, which rely on random input (such as from random number generators or pseudorandom number generators), are important techniques in science, particularly in the field of computational science.[3] By analogy, quasi-Monte Carlo methods use quasi-random number generators.
+
